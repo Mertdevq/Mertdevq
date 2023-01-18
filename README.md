@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 - 🔭 I’m currently working on **Varank IT Formation**
 
-- 🌱 I’m currently learning **typescript**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **merttanyildizi1@outlook.com**
 
-- ⚡ Fun fact **I like trains**
+- ⚡ Fun fact **I love basketball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
