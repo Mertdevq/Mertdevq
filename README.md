@@ -14,7 +14,7 @@
 <a href="https://twitter.com/@merttanyildizi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@merttanyildizi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20313220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20313220" height="30" width="40" /></a>
 <a href="https://instagram.com/mertwasd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mertwasd" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/merttanyildizi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="merttanyildizi" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/merttanyildizi](https://www.youtube.com/channel/UC8JN5mL9Impv8AL3k_YfSIQ)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="merttanyildizi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
