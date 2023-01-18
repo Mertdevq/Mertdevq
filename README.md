@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
-- 🔭 I’m currently working on Varank IT Formation
+- 🔭 I’m currently working on **Varank IT Formation
 
 - 🌱 I’m currently learning **TypeScript**
 
