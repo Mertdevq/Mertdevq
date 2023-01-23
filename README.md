@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **merttanyildizi1@outlook.com**
 
-- ⚡ Fun fact: **I love basketball**
+- ⚡ Fun fact: **I Love Basketball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
